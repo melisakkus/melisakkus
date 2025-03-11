@@ -29,5 +29,5 @@
 ## 📫 Bana Ulaşın  
 
 📌 **📩 E-Posta:** melisa.akkus01@gmail.com  
-📌 **LinkedIn:** [LinkedIn Profilim](https://www.linkedin.com/in/melisakkus)  
+📌 **LinkedIn:** [LinkedIn Profilim](https://www.linkedin.com/in/melisa-akkus-/)  
 📌 **GitHub:** [GitHub Profilim](https://github.com/melisakkus)  
