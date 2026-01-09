@@ -99,7 +99,7 @@
 [![Email](https://img.shields.io/badge/Email-melisa.akkus01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melisa.akkus01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Melisa%20Akkuş-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melisa-akkus-/)
 [![GitHub](https://img.shields.io/badge/GitHub-melisakkus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melisakkus)
-
+[![Medium](https://img.shields.io/badge/Medium-@melisa.akkus-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@melisa.akkus)
 </div>
 
 ---
