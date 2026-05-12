@@ -78,8 +78,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+<!-- 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -89,8 +89,8 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=melisakkus&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
 ---
+-->
 
 ## 📫 Contact Me
 
